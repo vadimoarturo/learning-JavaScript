@@ -6,3 +6,5 @@ Learning JavaScript Junior to FullStack
 2) Plugin select not user HTML select, only native JavaScript
 
 3) Get wetaher city , from request API service api.openweathermap.org/ Only native js and Node js
+
+4) Learning webpack 5+, bable and build .less .scss .ts .css .js
