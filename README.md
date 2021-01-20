@@ -9,4 +9,4 @@ Learning JavaScript Junior to FullStack
 
 4) Learning webpack 5+, bable and build .less .scss .ts .css .js
 
-5) Add app native js
+5) Native js blog

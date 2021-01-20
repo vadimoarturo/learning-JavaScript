@@ -1,0 +1,32 @@
+{
+  "name": "js-native-blog",
+  "version": "1.0.0",
+  "description": "JS native blog",
+  "main": "index.js",
+  "scripts": {
+    "dev": "sudo webpack --mode development",
+    "build": "sudo webpack --mode production",
+    "start": "sudo webpack serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vadimoarturo/learning-JavaScript.git"
+  },
+  "keywords": [
+    "js",
+    "blog",
+    "javascript"
+  ],
+  "author": "Vadim Burukhin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vadimoarturo/learning-JavaScript/issues"
+  },
+  "homepage": "https://github.com/vadimoarturo/learning-JavaScript#readme",
+  "devDependencies": {
+    "html-webpack-plugin": "^5.0.0-beta.5",
+    "webpack": "^5.16.0",
+    "webpack-cli": "^4.4.0",
+    "webpack-dev-server": "^3.11.2"
+  }
+}
